@@ -15,7 +15,6 @@
     background: -webkit-linear-gradient(top, RGB(233,233,233), RGB(240,240,240));
     background: -o-linear-gradient(top, RGB(233,233,233), RGB(240,240,240)); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, RGB(233,233,233), RGB(240,240,240)); /* IE10 */
-    background: linear-gradient(top, RGB(233,233,233), RGB(240,240,240)); /* CSS3 */
 }
 
 
